@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kaif</h1>
 <h3 align="center">I am a student of computer engineering in sir syed university and also i am learning web development</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fman-computer&psig=AOvVaw3fO49pVBHjAsckp-N2QcdP&ust=1727962001196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiStJ7m74gDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifahsan&label=Profile%20views&color=0e75b6&style=flat" alt="kaifahsan" /> </p>
 
